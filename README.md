@@ -10,6 +10,9 @@ In this project, few visualizations were created to understand the revenue chang
 **Tools used**
 Microsoft PowerBI - Data cleaning, analysis and visualization.
 
+**presentation link**
+https://app.powerbi.com/groups/me/reports/09a494b4-94be-4314-8a46-02444b337671/ReportSection?experience=power-bi
+
 **Visualization**
 
 ![image](https://github.com/RamyaSaka/Hotel-Revenue-Analysis-PowerBi-/assets/121084757/ab9b0199-ef10-4782-be2b-b753a7d01a92)
