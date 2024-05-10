@@ -1,11 +1,7 @@
 **Hotel-Revenue-Analysis (PowerBi)**
 
 **Problem Statement**
-AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. 
-
-They are losing their market share and revenue due to strategic moves from other competitors and ineffective decision-making in management.
-
-In this project, few visualizations were created to understand the revenue changes for AtliQ Grands.
+AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. They are losing their market share and revenue due to strategic moves from other competitors and ineffective decision-making in management.So in this project, few visualizations were created to understand the revenue changes for AtliQ Grands.
 
 **Tools used**
 Microsoft PowerBI - Data cleaning, analysis and visualization.
